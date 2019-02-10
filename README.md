@@ -17,7 +17,7 @@
 
 7. Click on the drop down underneath **Repository** and select **Clone a public Git repository to this notebook instance only**.
 
-8. Under **Git repository URL**, paste `https://github.com/kenstler/intro_to_ml_dl_workshop.git`.
+8. Under **Git repository URL**, paste `https://github.com/g2jangle/intro_to_ml_dl_workshop.git`.
 
 9. Scroll down and click **Create notebook instance**.
 
